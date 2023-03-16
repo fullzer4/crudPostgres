@@ -1,0 +1,12 @@
+c:\Users\User\Documents\Codigos\Estudos\crudPostgres\yew-app\target\debug\deps\thiserror_impl-34c4c0bcd30305f2.dll: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\ast.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\attr.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\expand.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\fmt.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\generics.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\prop.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\valid.rs
+
+c:\Users\User\Documents\Codigos\Estudos\crudPostgres\yew-app\target\debug\deps\thiserror_impl-34c4c0bcd30305f2.d: C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\lib.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\ast.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\attr.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\expand.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\fmt.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\generics.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\prop.rs C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\valid.rs
+
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\lib.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\ast.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\attr.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\expand.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\fmt.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\generics.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\prop.rs:
+C:\Users\User\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.39\src\valid.rs:
