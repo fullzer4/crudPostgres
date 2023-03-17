@@ -6,15 +6,15 @@ fn App() -> Html {
     let onclick = {
         let counter = counter.clone();
         move |_| {
-            let value = *counter + 1;
+            let value: i32 = *counter + 1;
             counter.set(value);
         }
     };
 
     html! {
-        <div>
-            <button {onclick}>{ "+1" }</button>
-            <p>{ *counter }</p>
+        <div class={classes!("container")}>
+            <button {onclick} class={classes!("click")}>{ "+1" }</button>
+            <p class={classes!("display")}>{ *counter }</p>
         </div>
     }
 }
